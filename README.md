@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huddaansh/huddaansh/main/banner.gif.gif" width="100%">
+</p>
+
 # Hey, I'm Ansh Hudda 👋
 
   Welcome to my GitHub space, where ideas are turned into projects.
