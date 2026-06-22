@@ -40,4 +40,13 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
 📊 Data Analytics • Pandas • NumPy
 </p>
 
+## Featured Projects
 
+### 🏥 [Aashar Medical Response](https://github.com/huddaansh/Aashar-project)
+A web platform focused on improving accessibility and communication during medical emergencies.
+
+### ⚙️ [ServeHex](https://github.com/huddaansh/ServeHex)
+A web development project built to explore modern technologies and practical problem-solving.
+
+### 📱 [Hussle](https://github.com/huddaansh/Hussle)
+A private AI-powered journal for daily reflection, habit tracking, and self-improvement.
