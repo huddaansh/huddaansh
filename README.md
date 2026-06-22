@@ -50,3 +50,16 @@ A web development project built to explore modern technologies and practical pro
 
 ### 📱 [Hussle](https://github.com/huddaansh/Hussle)
 A private AI-powered journal for daily reflection, habit tracking, and self-improvement.
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:anshhudda1602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ansh-hudda-6a00863b5">
+    <img src="https://img.shields.io/badge/LinkedIn-Ansh%20Hudda-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
