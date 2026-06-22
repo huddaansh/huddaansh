@@ -1,4 +1,4 @@
-# Hey, I'm Ansh Hudda 👋
+<h1 align="center">Hey, I'm Ansh Hudda 👋</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/huddaansh/huddaansh/main/banner.gif.gif" width="100%">
 </p>
