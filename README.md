@@ -11,7 +11,7 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
 
 
 
-## 🗡️⚔️ Skills ⚔️🗡️
+## ⚔️ Skills
 
 ### Programming Languages
 
