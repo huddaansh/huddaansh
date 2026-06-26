@@ -29,7 +29,7 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Data & Backend Journey
+### Data & Backend Journey   
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django" />
