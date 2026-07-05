@@ -34,7 +34,7 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
-
+   
 <p align="center">
 📊 Data Analytics • Pandas • NumPy
 </p>
