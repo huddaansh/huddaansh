@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/huddaansh/huddaansh/main/banner.gif.gif" width="68%">
 </p>     
 
-🫱🏼‍🫲🏼  Welcome to my GitHub space, where ideas are turned into projects.
+🫱🏼‍🫲🏼  Welcome to my GitHub space, where ideas are turned into projects.    
 
 ## About Me
 
