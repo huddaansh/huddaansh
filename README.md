@@ -36,7 +36,7 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
 </p>
    
 <p align="center">
-📊 Data Analytics • Pandas • NumPy
+📊 Data Analytics • Pandas • NumPy                   
 </p>
 
 ## Featured Projects
