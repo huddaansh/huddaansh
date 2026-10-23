@@ -41,7 +41,7 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
 
 ## Featured Projects
 
-###  [Portfolio](https://github.com/huddaansh/Portfolio)    
+### 📊 [Portfolio](https://github.com/huddaansh/Portfolio)    
 Personal portfolio showcasing my projects, technical skills, and journey in software engineering, Python, and data analytics.
 
 ### ⚙️ [Tej Public School](https://github.com/huddaansh/Tej-Public-School-Demo-)
