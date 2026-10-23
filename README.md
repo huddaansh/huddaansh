@@ -41,11 +41,11 @@ I enjoy turning ideas into meaningful projects and transforming concepts into pr
 
 ## Featured Projects
 
-### 🏥 [Aashar Medical Response](https://github.com/huddaansh/Portfolio)    
-A web platform focused on improving accessibility and communication during medical emergencies.
+###  [Portfolio](https://github.com/huddaansh/Portfolio)    
+Personal portfolio showcasing my projects, technical skills, and journey in software engineering, Python, and data analytics.
 
-### ⚙️ [ServeHex](https://github.com/huddaansh/ServeHex)
-A web development project built to explore modern technologies and practical problem-solving.
+### ⚙️ [Tej Public School](https://github.com/huddaansh/Tej-Public-School-Demo-)
+Unofficial school website demo designed and developed by me using HTML and CSS, with Copilot and ChatGPT as coding assistants for debugging and code review. Created as a first draft for my former school's management.
 
 ### 📱 [Hussle](https://github.com/huddaansh/Hussle)
 A private AI-powered journal for daily reflection, habit tracking, and self-improvement.
